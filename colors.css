@@ -1,0 +1,17 @@
+*{
+    color: black;
+}
+.main-container{
+    height: 100vh;
+    background-image: radial-gradient(pink ,white, yellow);
+}
+.shadow{
+    text-shadow: 2px 5px 5px blue;
+}
+.container{
+    box-shadow: 5px 6px 6px black;
+}
+.margin{
+    border-width: 5px;
+    border-color: red;
+}
